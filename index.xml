@@ -152,16 +152,6 @@ To open a file, using default application, type &lt;code&gt;open &amp;lt;file pa
 </description>
         </item>
         <item>
-        <title>Something</title>
-        <link>http://localhost:1313/p/something/</link>
-        <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/p/something/</guid>
-        <description>&lt;h1 id=&#34;something&#34;&gt;Something
-&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;
-</description>
-        </item>
-        <item>
         <title>An Optimistic Existence</title>
         <link>http://localhost:1313/p/an-optimistic-existence/</link>
         <pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
